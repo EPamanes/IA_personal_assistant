@@ -1,0 +1,1 @@
+FastAPI\nPyQt6\nKivy\nOllama\n
